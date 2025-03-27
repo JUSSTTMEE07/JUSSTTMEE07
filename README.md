@@ -1,3 +1,5 @@
+![Uploading 11521568.jpg…]()
+![11521568](https://github.com/user-attachments/assets/79cf600c-3014-459f-8305-fd9d99587f92)
 <h1 align="center">Hi 👋, I'm Pratyush Jha</h1>
 <h3 align="center">Exploring AI & Data Science | BCA Student | Code & Curiosity</h3>
 
